@@ -7,15 +7,20 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[headers]]
+  for = "index.xml"
+  [headers.values]
+    Content-Type = "application/xpdf"
     
 [[redirects]]
-  from = "https://cv.puneethkouloorkar.com/*"
-  to = "https://github.com/PuneethKouloorkar/My-Portfolio/raw/main/Puneeth_resume.pdf/:splat"
+  from = "http://cv.puneethkouloorkar.com/*"
+  to = "http://github.com/PuneethKouloorkar/My-Portfolio/raw/main/Puneeth_resume.pdf/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "https://ml.puneethkouloorkar.com/*"
-  to = "http://18.184.223.110:5000/:splat"
+  to = "https://18.184.223.110:5000/:splat"
   status = 301
   force = true
