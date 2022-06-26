@@ -17,5 +17,5 @@
 [[redirects]]
   from = "https://ml.puneethkouloorkar.com/*"
   to = "https://18.184.223.110:5000/:splat"
-  status = 301
+  status = 200
   force = true
