@@ -6,6 +6,6 @@
 
 [[redirects]]
   from = "https://ml.puneethkouloorkar.com/*"
-  to = "http://18.184.223.10:5000/:splat"
+  to = "http://18.184.223.110:5000/:splat"
   status = 301
   force = true
