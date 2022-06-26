@@ -8,6 +8,11 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
+[[headers]]
+  for = "*.pdf"
+  [headers.values]
+    Content-Type = "application/pdf"
+    
 [[redirects]]
   from = "https://cv.puneethkouloorkar.com/*"
   to = "https://github.com/PuneethKouloorkar/My-Portfolio/raw/main/Puneeth_resume.pdf/:splat"
