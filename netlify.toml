@@ -7,11 +7,6 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
-
-[[headers]]
-  for = "*.pdf"
-  [headers.values]
-    Content-Type = "application/pdf"
     
 [[redirects]]
   from = "https://cv.puneethkouloorkar.com/*"
