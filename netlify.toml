@@ -15,7 +15,7 @@
   force = true
 
 [[redirects]]
-  from = "http://ml.puneethkouloorkar.com/*"
-  to = "http://18.184.223.110:5000/:splat"
+  from = "https://ml.puneethkouloorkar.com/*"
+  to = "https://18.184.223.110:5000/:splat"
   status = 200
   force = true
