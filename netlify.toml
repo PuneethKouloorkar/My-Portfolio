@@ -10,7 +10,7 @@
     
 [[redirects]]
   from = "https://cv.puneethkouloorkar.com/*"
-  to = "https://github.com/PuneethKouloorkar/My-Portfolio/blob/main/My_resume/Puneeth_resume.pdf/:splat"
+  to = "https://github.com/PuneethKouloorkar/My-Portfolio/blob/main/Puneeth_resume.pdf/:splat"
   status = 200
   force = true
 
