@@ -9,7 +9,7 @@
     Content-Type = "application/rss+xml"
 
 [[headers]]
-  for = "index.xml"
+  for = "*.pdf"
   [headers.values]
     Content-Type = "application/xpdf"
     
